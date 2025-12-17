@@ -33,19 +33,8 @@ Mi experiencia se centra en el análisis ambiental, modelado estadístico y crea
 https://github.com/FatimaMoshayedi/Codigo-Azul/>
 
 ---
-### Simulador de Turismo: Análisis de Mercado ✈️  
-This project is an interactive simulator designed to monitor tourist flows and optimize market diversification strategies based on key KPIs.
-
-Este proyecto consiste en un simulador interactivo diseñado para monitorizar el flujo de turistas y optimizar las estrategias de diversificación de mercado basadas en KPIs clave.
-
-**Project Objectives / Objetivos del Proyecto:**  
-- Monitor international and national tourist flows.  
-- Optimize marketing strategies through historical data analysis.  
-- Visualize key performance indicators (KPIs) to support strategic decision-making.
-
-## 📊 Visualización Destacada
-
-<img width="1920" height="941" alt="simulador" src="https://github.com/user-attachments/assets/0667bbc9-2e09-43bc-8dd7-3689102a90fa" />
+* **[Gaia Travels: Simulador de Turismo & BI](https://github.com/FatimaMoshayedi/Simulador-Turismo)** Desarrollo de un simulador estratégico para el sector turístico en España. Incluye procesamiento de datos con Python (Plotly), análisis de KPIs y estudio de correlación de Spearman.  
+  [📂 Ver Detalles y Análisis Técnico →](https://github.com/FatimaMoshayedi/Simulador-de-Turismo)
 
 ---
 
