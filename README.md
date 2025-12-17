@@ -1,58 +1,58 @@
-
-# Hi there, I'm Fatima Moshayedi 👋
-
-### 🎓 Data Analyst | PhD in Marine Sciences  
-I am a dedicated Data Analyst with a strong academic background and hands-on experience in transforming complex datasets into actionable insights. My expertise lies in environmental data analysis, statistical modeling, and creating interactive dashboards to support strategic decision-making.
+# Hi there, I'm Fatima Moshayedi 👋  
+🎓 Data Analyst | PhD in Marine Sciences
 
 ---
 
-### 🛠 Technical Skills  
-* **Languages:** Python (Pandas, Seaborn, Matplotlib, Plotly), SQL
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## About Me / Sobre mí  
+I am a dedicated Data Analyst with a strong academic background and hands-on experience in transforming complex datasets into actionable insights.  
+My expertise lies in environmental data analysis, statistical modeling, and creating interactive dashboards to support strategic decision-making.
+
+Soy una analista de datos dedicada con sólida formación académica y experiencia práctica en la transformación de conjuntos de datos complejos en conocimientos accionables.  
+Mi experiencia se centra en el análisis ambiental, modelado estadístico y creación de dashboards interactivos para apoyar la toma de decisiones estratégicas.
+
+---
+## 🛠 Technical Skills / Habilidades Técnicas  
+- **Languages / Lenguajes:** Python (Pandas, Seaborn, Matplotlib, Plotly), SQL
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-* **Data Visualization:** Power BI (Interactive Dashboards, DAX)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-* **Databases:** SQL, MongoDB  
-* **Tools & Technologies:** Git, GitHub, Excel (Advanced), SPSS  
-* **Languages:** Persian (Native), Spanish (C1), English (C1), Catalan (B1)  
+- **Data Visualization / Visualización:** Power BI (Interactive Dashboards, DAX)
+- ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+- **Databases / Bases de Datos:** SQL, MongoDB  
+- **Tools & Technologies / Herramientas:** Git, GitHub, Excel (Advanced), SPSS  
+- **Languages / Idiomas:** Persian (Native), Spanish (C1), English (C1), Catalan (B1)
+
 
 ---
 
-### 🚀 Key Projects  
+## 🚀 Key Projects / Proyectos Clave  
 
-# Código Azul: Marea de Datos 🌊
+### Código Azul: Marea de Datos 🌊  
+This professional project consists of the analysis and visualization of environmental data to evaluate the impact of Marine Protected Areas (MPAs) on global indicators.  
+Developed during the Data Analysis Bootcamp at IT Academy, Barcelona.
 
-Este proyecto profesional consiste en el análisis y visualización de datos ambientales para evaluar el impacto de las **Áreas Marinas Protegidas (MPAs)** en indicadores globales.  
-Desarrollado durante el Bootcamp de Análisis de Datos en **IT Academy, Barcelona**.
+Este proyecto profesional consiste en el análisis y visualización de datos ambientales para evaluar el impacto de las Áreas Marinas Protegidas (MPAs) en indicadores globales.  
+Desarrollado durante el Bootcamp de Análisis de Datos en IT Academy, Barcelona.
 
-## 🎯 Objetivos del Proyecto
-* **Evaluar la efectividad** de la protección marina en la reducción de emisiones de gases de efecto invernadero (GHG).  
-* **Analizar la correlación** entre el porcentaje de áreas protegidas y variables críticas como el CO2.  
-* **Proporcionar visualizaciones** claras para apoyar la toma de decisiones estratégicas en conservación ambiental.
-
-## 🛠️ Tecnologías Utilizadas
-* **Python:** Limpieza y análisis estadístico (Pandas, Matplotlib, Seaborn).  
-* **Power BI:** Creación de dashboards interactivos y cálculos DAX.  
-* **SQL & MongoDB:** Gestión y consulta de bases de datos.  
-* **Estadística:** Análisis de correlación de Pearson y Spearman.
+**Project Objectives / Objetivos del Proyecto:**  
+- Evaluate the effectiveness of marine protection in reducing greenhouse gas (GHG) emissions.  
+- Analyze the correlation between the percentage of protected areas and critical variables like CO2.  
+- Provide clear visualizations to support strategic decision-making in environmental conservation.
 
 ## 📊 Visualización Destacada
 
 <img width="1304" height="970" alt="codigo azul" src="https://github.com/user-attachments/assets/f2f63810-285f-480c-a5f5-29b34fa58c37" />
- 
-# Simulador de Turismo: Análisis de Mercado ✈️
+
+---
+### Simulador de Turismo: Análisis de Mercado ✈️  
+This project is an interactive simulator designed to monitor tourist flows and optimize market diversification strategies based on key KPIs.
 
 Este proyecto consiste en un simulador interactivo diseñado para monitorizar el flujo de turistas y optimizar las estrategias de diversificación de mercado basadas en KPIs clave.
 
-## 🎯 Objetivos
-* **Monitorizar** el flujo de turistas internacionales y nacionales.  
-* **Optimizar** las estrategias de marketing mediante el análisis de datos históricos.  
-* **Visualizar** indicadores clave de rendimiento (KPIs) para apoyar la toma de decisiones estratégicas.
-
-## 🛠️ Herramientas Utilizadas
-* **Power BI:** Desarrollo de dashboards interactivos y modelado avanzado de datos.  
-* **Git y GitHub:** Control de versiones y colaboración en equipo.
+**Project Objectives / Objetivos del Proyecto:**  
+- Monitor international and national tourist flows.  
+- Optimize marketing strategies through historical data analysis.  
+- Visualize key performance indicators (KPIs) to support strategic decision-making.
 
 ## 📊 Visualización Destacada
 
@@ -60,15 +60,15 @@ Este proyecto consiste en un simulador interactivo diseñado para monitorizar el
 
 ---
 
-### 💼 Professional Experience  
-* **Data Analyst Intern** at IT Academy, Barcelona.  
-* **Researcher** at University of Barcelona (Focus on statistical analysis and scientific publications).  
+## 💼 Professional Experience / Experiencia Profesional  
+- Data Analyst Intern at IT Academy, Barcelona.  
+- Researcher at University of Barcelona (Focus on statistical analysis and scientific publications).
 
 ---
 
-### 📫 Connect with me:  
-* **LinkedIn:** [linkedin.com/in/fatemeh-moshayedi](https://linkedin.com/in/fatemeh-moshayedi)  
-* **Email:** fateme.moshayedi@yahoo.com  
+## 📫 Connect with me / Contacto  
+- **LinkedIn:** [linkedin.com/in/fatemeh-moshayedi](https://linkedin.com/in/fatemeh-moshayedi)  
+- **Email:** fateme.moshayedi@yahoo.com
 
 ---
 
