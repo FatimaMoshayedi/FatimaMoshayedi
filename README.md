@@ -17,7 +17,7 @@ I am a dedicated Data Analyst with a strong academic background and hands-on exp
 
 ### 🚀 Key Projects  
 * **Código Azul Project (IT Academy):** Analyzed and visualized environmental data to evaluate the impact of protected marine areas using Python and SQL.
-[codigo azul](https://raw.githubusercontent.com/YourUsername/YourRepo/main/images/codigo_azul.png)
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/5bfdd515-798e-43b1-b9a1-cc487cb86170" />
 
 
 * **Tourism Simulator:** Developed Power BI dashboards to monitor tourist flow and optimize market diversification strategies based on KPIs.  
