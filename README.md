@@ -16,8 +16,26 @@ I am a dedicated Data Analyst with a strong academic background and hands-on exp
 ---
 
 ### 🚀 Key Projects  
-* **Código Azul Project (IT Academy):** Analyzed and visualized environmental data to evaluate the impact of protected marine areas using Python and SQL.
-<img width="1304" height="970" alt="codigo azul" src="https://github.com/user-attachments/assets/4d8046df-d3fd-4168-961a-674cec341e69" />
+
+# Código Azul: Marea de Datos 🌊
+
+Este proyecto profesional consiste en el análisis y visualización de datos ambientales para evaluar el impacto de las **Áreas Marinas Protegidas (MPAs)** en indicadores globales.  
+Desarrollado durante el Bootcamp de Análisis de Datos en **IT Academy, Barcelona**.
+
+## 🎯 Objetivos del Proyecto
+* **Evaluar la efectividad** de la protección marina en la reducción de emisiones de gases de efecto invernadero (GHG).  
+* **Analizar la correlación** entre el porcentaje de áreas protegidas y variables críticas como el CO2.  
+* **Proporcionar visualizaciones** claras para apoyar la toma de decisiones estratégicas en conservación ambiental.
+
+## 🛠️ Tecnologías Utilizadas
+* **Python:** Limpieza y análisis estadístico (Pandas, Matplotlib, Seaborn).  
+* **Power BI:** Creación de dashboards interactivos y cálculos DAX.  
+* **SQL & MongoDB:** Gestión y consulta de bases de datos.  
+* **Estadística:** Análisis de correlación de Pearson y Spearman.
+
+## 📊 Visualización Destacada
+
+<img width="1304" height="970" alt="codigo azul" src="https://github.com/user-attachments/assets/f2f63810-285f-480c-a5f5-29b34fa58c37" />
 
 
 * **Tourism Simulator:** Developed Power BI dashboards to monitor tourist flow and optimize market diversification strategies based on KPIs.  
