@@ -36,9 +36,23 @@ Desarrollado durante el Bootcamp de Análisis de Datos en **IT Academy, Barcelon
 ## 📊 Visualización Destacada
 
 <img width="1304" height="970" alt="codigo azul" src="https://github.com/user-attachments/assets/f2f63810-285f-480c-a5f5-29b34fa58c37" />
+ 
+# Simulador de Turismo: Análisis de Mercado ✈️
 
+Este proyecto consiste en un simulador interactivo diseñado para monitorizar el flujo de turistas y optimizar las estrategias de diversificación de mercado basadas en KPIs clave.
 
-* **Tourism Simulator:** Developed Power BI dashboards to monitor tourist flow and optimize market diversification strategies based on KPIs.  
+## 🎯 Objetivos
+* **Monitorizar** el flujo de turistas internacionales y nacionales.  
+* **Optimizar** las estrategias de marketing mediante el análisis de datos históricos.  
+* **Visualizar** indicadores clave de rendimiento (KPIs) para apoyar la toma de decisiones estratégicas.
+
+## 🛠️ Herramientas Utilizadas
+* **Power BI:** Desarrollo de dashboards interactivos y modelado avanzado de datos.  
+* **Git y GitHub:** Control de versiones y colaboración en equipo.
+
+## 📊 Visualización Destacada
+
+<img width="1920" height="941" alt="simulador" src="https://github.com/user-attachments/assets/0667bbc9-2e09-43bc-8dd7-3689102a90fa" />
 
 ---
 
