@@ -7,7 +7,12 @@ I am a dedicated Data Analyst with a strong academic background and hands-on exp
 ---
 
 ### 🛠 Technical Skills  
-* **Languages:** Python (Pandas, Seaborn, Matplotlib, Plotly), SQL  
+* **Languages:** Python (Pandas, Seaborn, Matplotlib, Plotly), SQL
+* ### 🛠 Technologies & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 * **Data Visualization:** Power BI (Interactive Dashboards, DAX)  
 * **Databases:** SQL, MongoDB  
 * **Tools & Technologies:** Git, GitHub, Excel (Advanced), SPSS  
