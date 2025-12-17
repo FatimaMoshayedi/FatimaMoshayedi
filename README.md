@@ -27,21 +27,10 @@ Mi experiencia se centra en el análisis ambiental, modelado estadístico y crea
 
 ## 🚀 Key Projects / Proyectos Clave  
 
-### Código Azul: Marea de Datos 🌊  
-This professional project consists of the analysis and visualization of environmental data to evaluate the impact of Marine Protected Areas (MPAs) on global indicators.  
-Developed during the Data Analysis Bootcamp at IT Academy, Barcelona.
-
-Este proyecto profesional consiste en el análisis y visualización de datos ambientales para evaluar el impacto de las Áreas Marinas Protegidas (MPAs) en indicadores globales.  
-Desarrollado durante el Bootcamp de Análisis de Datos en IT Academy, Barcelona.
-
-**Project Objectives / Objetivos del Proyecto:**  
-- Evaluate the effectiveness of marine protection in reducing greenhouse gas (GHG) emissions.  
-- Analyze the correlation between the percentage of protected areas and critical variables like CO2.  
-- Provide clear visualizations to support strategic decision-making in environmental conservation.
-
-## 📊 Visualización Destacada
-
-<img width="1304" height="970" alt="codigo azul" src="https://github.com/user-attachments/assets/f2f63810-285f-480c-a5f5-29b34fa58c37" />
+* **[Código Azul: Environmental Data Analysis](https://github.com/FatimaMoshayedi/Codigo-Azul)** Análisis del impacto de las áreas protegidas en las emisiones de CO2 usando Python (Pandas, Seaborn), SQL y Power BI. Incluye análisis estadístico de correlación y visualización avanzada.
+  
+  [📂 Ver Código y Reporte Completo →](https://github.com/FatimaMoshayedi/Codigo-Azul)
+https://github.com/FatimaMoshayedi/Codigo-Azul/>
 
 ---
 ### Simulador de Turismo: Análisis de Mercado ✈️  
